@@ -331,3 +331,64 @@
 [35m[39m
 2025-07-23 11:10:23:1023 - [35mhttp[39m: [35mGET /api/allmovie 200  513 - 41.301 ms[39m
 [35m[39m
+2025-07-23 11:16:28:1628 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:16:30:1630 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:16:32:1632 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:16:44:1644 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:16:51:1651 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:17:03:173 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:17:09:179 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:17:13:1713 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:17:21:1721 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:17:24:1724 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:17:30:1730 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:17:32:1732 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:17:41:1741 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:17:49:1749 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:18:04:184 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:18:26:1826 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:18:36:1836 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:18:45:1845 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:18:49:1849 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:18:51:1851 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:19:00:190 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:19:02:192 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:19:15:1915 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:19:22:1922 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:19:27:1927 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:19:36:1936 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:19:49:1949 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:19:55:1955 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:19:58:1958 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:20:02:202 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:20:06:206 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:20:09:209 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:20:28:2028 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:20:34:2034 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:20:41:2041 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:20:44:2044 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:21:17:2117 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:21:26:2126 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:21:28:2128 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:21:38:2138 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:21:46:2146 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:21:49:2149 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:21:54:2154 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:22:03:223 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:22:30:2230 - [35mhttp[39m: [35mPOST /api/create 400  70 - 18.245 ms[39m
+[35m[39m
+2025-07-23 11:23:00:230 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:23:02:232 - [35mhttp[39m: [35mPOST /api/create 200  256 - 92.308 ms[39m
+[35m[39m
+2025-07-23 11:23:11:2311 - [35mhttp[39m: [35mGET /api/allmovie 200  745 - 76.368 ms[39m
+[35m[39m
+2025-07-23 11:23:21:2321 - [35mhttp[39m: [35mGET /api/movie/687f9d348fa9bcc550e01246 200  265 - 65.171 ms[39m
+[35m[39m
+2025-07-23 11:23:50:2350 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:24:40:2440 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:24:45:2445 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:24:55:2455 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:24:58:2458 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:25:05:255 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:25:11:2511 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:44:27:4427 - [32minfo[39m: [32msever reload on port 3000[39m
