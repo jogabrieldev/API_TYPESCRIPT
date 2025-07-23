@@ -1,0 +1,1 @@
+2025-07-23 10:49:19:4919 - [31merror[39m: [31mErro para deletar filme Cast to ObjectId failed for value "687a5ec7ba628f6dfd1787e" (type string) at path "_id" for model "Movie"[39m

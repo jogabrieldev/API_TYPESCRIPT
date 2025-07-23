@@ -1,0 +1,333 @@
+2025-07-17 11:57:38:5738 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 10:44:38:4438 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 10:59:28:5928 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 10:59:42:5942 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 10:59:52:5952 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:00:35:035 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:00:53:053 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:01:00:10 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:01:01:11 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:02:56:256 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:04:59:459 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:05:09:59 - [35mhttp[39m: [35mGET /api/ 200  34 - 2.749 ms[39m
+[35m[39m
+2025-07-18 11:20:48:2048 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:20:53:2053 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:20:59:2059 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:21:09:219 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:25:12:2512 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:29:22:2922 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:29:27:2927 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:29:30:2930 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:29:43:2943 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:29:59:2959 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:30:03:303 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:31:16:3116 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:31:22:3122 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:31:35:3135 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:31:37:3137 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:31:39:3139 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:31:42:3142 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:33:04:334 - [35mhttp[39m: [35mPOST /api/create -  - - - ms[39m
+[35m[39m
+2025-07-18 11:35:34:3534 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:35:49:3549 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:35:52:3552 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:35:56:3556 - [35mhttp[39m: [35mPOST /api/create 200  22 - 3.259 ms[39m
+[35m[39m
+2025-07-18 11:37:38:3738 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:37:41:3741 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:39:22:3922 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:39:51:3951 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:40:40:4040 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:40:44:4044 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:40:48:4048 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:41:04:414 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:41:17:4117 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:41:22:4122 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:41:44:4144 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:41:46:4146 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:41:58:4158 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:42:04:424 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:42:10:4210 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:42:19:4219 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:42:24:4224 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:42:30:4230 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:42:35:4235 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:42:46:4246 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:42:48:4248 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:42:58:4258 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:43:17:4317 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:43:23:4323 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:43:32:4332 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:43:35:4335 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:43:51:4351 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:44:18:4418 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:44:38:4438 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:44:52:4452 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-18 11:48:39:4839 - [35mhttp[39m: [35mPOST /api/create 200  253 - 90.706 ms[39m
+[35m[39m
+2025-07-21 10:58:07:587 - [35mhttp[39m: [35mPOST /api/create 422  47 - 5.295 ms[39m
+[35m[39m
+2025-07-21 10:58:19:5819 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-21 11:00:31:031 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-21 11:09:16:916 - [35mhttp[39m: [35mPOST /api/create 422  136 - 6.216 ms[39m
+[35m[39m
+2025-07-21 11:09:28:928 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-21 11:09:32:932 - [35mhttp[39m: [35mPOST /api/create 422  136 - 1.085 ms[39m
+[35m[39m
+2025-07-21 11:11:55:1155 - [35mhttp[39m: [35mPOST /api/create 422  151 - 4.401 ms[39m
+[35m[39m
+2025-07-21 11:12:16:1216 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-21 11:12:22:1222 - [35mhttp[39m: [35mPOST /api/create 422  53 - 4.613 ms[39m
+[35m[39m
+2025-07-21 11:12:49:1249 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-21 11:15:48:1548 - [35mhttp[39m: [35mPOST /api/create 422  56 - 6.549 ms[39m
+[35m[39m
+2025-07-21 11:15:53:1553 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-21 11:18:27:1827 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-21 11:19:47:1947 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-21 11:20:45:2045 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-21 11:22:11:2211 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-21 11:23:17:2317 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:02:33:233 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=lteg3hgh 404  149 - 3.542 ms[39m
+[35m[39m
+2025-07-22 11:02:33:233 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=lteg7zbu 404  149 - 0.716 ms[39m
+[35m[39m
+2025-07-22 11:02:33:233 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltf7okiw 404  149 - 0.435 ms[39m
+[35m[39m
+2025-07-22 11:02:33:233 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltf7q14c 404  149 - 0.461 ms[39m
+[35m[39m
+2025-07-22 11:02:34:234 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=lthiu0rs 404  149 - 0.780 ms[39m
+[35m[39m
+2025-07-22 11:02:34:234 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=lthiyqo6 404  149 - 0.332 ms[39m
+[35m[39m
+2025-07-22 11:02:35:235 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltiak8t6 404  149 - 0.244 ms[39m
+[35m[39m
+2025-07-22 11:02:35:235 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltiapbro 404  149 - 0.258 ms[39m
+[35m[39m
+2025-07-22 11:02:36:236 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltj2dbhl 404  149 - 1.079 ms[39m
+[35m[39m
+2025-07-22 11:02:36:236 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltj2gccp 404  149 - 0.708 ms[39m
+[35m[39m
+2025-07-22 11:02:37:237 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltjud4sn 404  149 - 0.394 ms[39m
+[35m[39m
+2025-07-22 11:02:37:237 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltjuhsnb 404  149 - 0.668 ms[39m
+[35m[39m
+2025-07-22 11:02:37:237 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltjukjpy 404  149 - 0.410 ms[39m
+[35m[39m
+2025-07-22 11:02:38:238 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltkm43v5 404  149 - 0.879 ms[39m
+[35m[39m
+2025-07-22 11:02:38:238 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltkmhzie 404  149 - 0.492 ms[39m
+[35m[39m
+2025-07-22 11:02:38:238 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltkmrs8b 404  149 - 0.555 ms[39m
+[35m[39m
+2025-07-22 11:02:38:238 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltkmu4ja 404  149 - 0.657 ms[39m
+[35m[39m
+2025-07-22 11:02:38:238 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltkn1mca 404  149 - 0.473 ms[39m
+[35m[39m
+2025-07-22 11:02:40:240 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltm5lhnc 404  149 - 0.332 ms[39m
+[35m[39m
+2025-07-22 11:02:40:240 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltm5n9l5 404  149 - 0.341 ms[39m
+[35m[39m
+2025-07-22 11:02:41:241 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltmxcomg 404  149 - 0.272 ms[39m
+[35m[39m
+2025-07-22 11:02:41:241 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltmxdx7w 404  149 - 0.307 ms[39m
+[35m[39m
+2025-07-22 11:02:42:242 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltnp4fzt 404  149 - 0.876 ms[39m
+[35m[39m
+2025-07-22 11:02:42:242 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltnp8ka5 404  149 - 0.448 ms[39m
+[35m[39m
+2025-07-22 11:02:43:243 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltogyyxc 404  149 - 0.368 ms[39m
+[35m[39m
+2025-07-22 11:02:43:243 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltoh0mci 404  149 - 0.302 ms[39m
+[35m[39m
+2025-07-22 11:02:43:243 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltoh2h73 404  149 - 0.337 ms[39m
+[35m[39m
+2025-07-22 11:02:44:244 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltp8t1g9 404  149 - 0.392 ms[39m
+[35m[39m
+2025-07-22 11:02:44:244 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltp8w8zw 404  149 - 0.366 ms[39m
+[35m[39m
+2025-07-22 11:02:44:244 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltp8z4k8 404  149 - 0.295 ms[39m
+[35m[39m
+2025-07-22 11:02:44:244 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltp90ero 404  149 - 0.965 ms[39m
+[35m[39m
+2025-07-22 11:02:44:244 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltp92y9b 404  149 - 0.700 ms[39m
+[35m[39m
+2025-07-22 11:02:46:246 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltqsdwfa 404  149 - 0.408 ms[39m
+[35m[39m
+2025-07-22 11:02:46:246 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltqslvcn 404  149 - 0.445 ms[39m
+[35m[39m
+2025-07-22 11:02:47:247 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltrk7crh 404  149 - 0.380 ms[39m
+[35m[39m
+2025-07-22 11:02:47:247 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltrkayub 404  149 - 0.383 ms[39m
+[35m[39m
+2025-07-22 11:02:48:248 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltsbr0p5 404  149 - 0.249 ms[39m
+[35m[39m
+2025-07-22 11:02:48:248 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltsbu3ao 404  149 - 0.356 ms[39m
+[35m[39m
+2025-07-22 11:02:49:249 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltt3gdh1 404  149 - 0.282 ms[39m
+[35m[39m
+2025-07-22 11:02:49:249 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltt3k7cg 404  149 - 0.553 ms[39m
+[35m[39m
+2025-07-22 11:02:49:249 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltt3oynl 404  149 - 0.386 ms[39m
+[35m[39m
+2025-07-22 11:02:50:250 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=lttvhfsk 404  149 - 0.499 ms[39m
+[35m[39m
+2025-07-22 11:02:50:250 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=lttvjvaa 404  149 - 0.611 ms[39m
+[35m[39m
+2025-07-22 11:02:50:250 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=lttvljfb 404  149 - 0.672 ms[39m
+[35m[39m
+2025-07-22 11:02:50:250 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=lttvorgx 404  149 - 0.582 ms[39m
+[35m[39m
+2025-07-22 11:02:50:250 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=lttvqu68 404  149 - 0.447 ms[39m
+[35m[39m
+2025-07-22 11:02:52:252 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltvexbhd 404  149 - 0.688 ms[39m
+[35m[39m
+2025-07-22 11:02:52:252 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltvf2qp8 404  149 - 0.476 ms[39m
+[35m[39m
+2025-07-22 11:02:53:253 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltw6r4xc 404  149 - 0.306 ms[39m
+[35m[39m
+2025-07-22 11:02:53:253 - [35mhttp[39m: [35mGET /socket.io/?EIO=4&transport=polling&t=ltw6vs4o 404  149 - 0.350 ms[39m
+[35m[39m
+2025-07-22 11:05:41:541 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:06:35:635 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:06:38:638 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:06:42:642 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:06:46:646 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:06:48:648 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:06:57:657 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:07:04:74 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:07:09:79 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:07:32:732 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:07:55:755 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:07:58:758 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:09:16:916 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:09:19:919 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:09:26:926 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:09:30:930 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:09:37:937 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:09:39:939 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:09:45:945 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:09:58:958 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:10:04:104 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:10:12:1012 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:10:18:1018 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:10:20:1020 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:11:14:1114 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:11:17:1117 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:11:41:1141 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:12:48:1248 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:15:38:1538 - [35mhttp[39m: [35mPOST /api/create 422  56 - 18.930 ms[39m
+[35m[39m
+2025-07-22 11:16:16:1616 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:16:20:1620 - [35mhttp[39m: [35mPOST /api/create 200  253 - 64.488 ms[39m
+[35m[39m
+2025-07-22 11:18:46:1846 - [35mhttp[39m: [35mGET /api/movie/687f9d348fa9bcc550e01246 200  253 - 78.826 ms[39m
+[35m[39m
+2025-07-22 11:20:18:2018 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:20:30:2030 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:20:33:2033 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:20:43:2043 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:20:50:2050 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:20:54:2054 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:21:32:2132 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:21:41:2141 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:21:44:2144 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:21:57:2157 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:22:05:225 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:22:07:227 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:22:14:2214 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:22:38:2238 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:22:42:2242 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:22:45:2245 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:23:04:234 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:23:10:2310 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:23:15:2315 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:23:17:2317 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:23:49:2349 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:24:47:2447 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-22 11:25:32:2532 - [35mhttp[39m: [35mGET /api/allmovie 200  490 - 60.958 ms[39m
+[35m[39m
+2025-07-23 10:31:36:3136 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:47:27:4727 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:49:00:490 - [35mhttp[39m: [35mGET /api/allmovie 200  490 - 70.691 ms[39m
+[35m[39m
+2025-07-23 10:49:19:4919 - [31merror[39m: [31mErro para deletar filme Cast to ObjectId failed for value "687a5ec7ba628f6dfd1787e" (type string) at path "_id" for model "Movie"[39m
+2025-07-23 10:49:19:4919 - [35mhttp[39m: [35mDELETE /api/movie/687a5ec7ba628f6dfd1787e 500  38 - 7.380 ms[39m
+[35m[39m
+2025-07-23 10:49:37:4937 - [35mhttp[39m: [35mDELETE /api/movie/687a5ec7ba628f6dfd1787ea 200  271 - 56.574 ms[39m
+[35m[39m
+2025-07-23 10:49:52:4952 - [35mhttp[39m: [35mGET /api/allmovie 200  261 - 41.645 ms[39m
+[35m[39m
+2025-07-23 10:52:15:5215 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:52:22:5222 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:52:24:5224 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:52:39:5239 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:53:21:5321 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:53:25:5325 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:53:36:5336 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:53:43:5343 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:54:35:5435 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:54:41:5441 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:54:46:5446 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:54:55:5455 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:55:03:553 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:55:06:556 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:55:14:5514 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:55:16:5516 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:55:21:5521 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:55:34:5534 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:55:40:5540 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:55:51:5551 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:56:04:564 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:56:08:568 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:56:14:5614 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:56:19:5619 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:56:25:5625 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:56:38:5638 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:56:59:5659 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:57:14:5714 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:58:10:5810 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:58:15:5815 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:58:25:5825 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 10:59:02:592 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:01:06:16 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:01:10:110 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:01:20:120 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:01:24:124 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:01:29:129 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:01:33:133 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:01:40:140 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:01:47:147 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:01:52:152 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:02:02:22 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:02:07:27 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:02:17:217 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:02:21:221 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:03:51:351 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:04:47:447 - [35mhttp[39m: [35mPUT /api/movie/687f9d348fa9bcc550e01246 404  173 - 9.884 ms[39m
+[35m[39m
+2025-07-23 11:04:52:452 - [35mhttp[39m: [35mPATCH /api/movie/687f9d348fa9bcc550e01246 200  112 - 71.771 ms[39m
+[35m[39m
+2025-07-23 11:05:05:55 - [35mhttp[39m: [35mGET /api/allmovie 200  273 - 47.110 ms[39m
+[35m[39m
+2025-07-23 11:05:23:523 - [35mhttp[39m: [35mPATCH /api/movie/687f9d348fa9bcc550e01246 200  144 - 45.365 ms[39m
+[35m[39m
+2025-07-23 11:05:28:528 - [35mhttp[39m: [35mGET /api/allmovie 200  273 - 40.002 ms[39m
+[35m[39m
+2025-07-23 11:06:30:630 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:06:34:634 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:06:40:640 - [32minfo[39m: [32msever reload on port 3000[39m
+2025-07-23 11:08:06:86 - [35mhttp[39m: [35mPOST /api/create 200  256 - 119.142 ms[39m
+[35m[39m
+2025-07-23 11:08:11:811 - [35mhttp[39m: [35mGET /api/allmovie 200  505 - 73.089 ms[39m
+[35m[39m
+2025-07-23 11:09:14:914 - [35mhttp[39m: [35mPATCH /api/movie/6880ecc62e2ff251fd42e8f1 422  151 - 4.598 ms[39m
+[35m[39m
+2025-07-23 11:10:08:108 - [35mhttp[39m: [35mPATCH /api/movie/6880ecc62e2ff251fd42e8f1 422  56 - 1.606 ms[39m
+[35m[39m
+2025-07-23 11:10:15:1015 - [35mhttp[39m: [35mPATCH /api/movie/6880ecc62e2ff251fd42e8f1 200  217 - 89.822 ms[39m
+[35m[39m
+2025-07-23 11:10:23:1023 - [35mhttp[39m: [35mGET /api/allmovie 200  513 - 41.301 ms[39m
+[35m[39m
