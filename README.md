@@ -31,13 +31,12 @@ Este projeto é uma **API RESTful** desenvolvida com **Node.js** e **TypeScript*
 ```bash
 API_TYPESCRIPT/
 │__ config/ #configue do banco de dados e conexão 
-├─ logs/  #Logs da aplicação var ver como esta rodando e acompanhar de maneira mais pratica    (logs personaizados)
+├─ logs/  #Logs da aplicação personalizados
 ├__ src/
 │  ├─ controllers/    # Lógica de negócio (camada Controller)
 │  ├─ models/         # Definição de schemas e interação com o banco (Model)
 │  ├─ routes/         # Rotas da aplicação
 │  ├─ middlewares/    # Middlewares como logs e validações
-│  ├─ utils/          # Funções auxiliares
 │  ├─ config/         # Configurações (ex.: conexão com MongoDB)
 │  ├─ server.ts       # Ponto de entrada da aplicação
 │
