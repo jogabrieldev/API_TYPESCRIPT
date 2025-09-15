@@ -8,8 +8,6 @@ const movieSchema = new Schema({
     stars:{type:Array},
     poster: {type:String}
     
-
-    
 },{
       timestamps:true 
 })

@@ -30,8 +30,9 @@ Este projeto é uma **API RESTful** desenvolvida com **Node.js** e **TypeScript*
 ## 📂 **Estrutura do Projeto**
 ```bash
 API_TYPESCRIPT/
-│
-├─ src/
+│__ config/ #configue do banco de dados e conexão 
+├─ logs/  #Logs da aplicação var ver como esta rodando e acompanhar de maneira mais pratica    (logs personaizados)
+├__ src/
 │  ├─ controllers/    # Lógica de negócio (camada Controller)
 │  ├─ models/         # Definição de schemas e interação com o banco (Model)
 │  ├─ routes/         # Rotas da aplicação
